@@ -1,0 +1,29 @@
+---
+id: "UM_5"
+name: "Allegro"
+spellLevel: "bard 2"
+school: "transmutation"
+source: "Ultimate Magic"
+range: "personal"
+castingTime: "1 standard action"
+components: "V"
+targets: "you"
+duration: "1 round/level (D) or until discharged"
+saveType: ""
+sr: "not found"
+description: "This spell allows you to act more swiftly while maintaining a bardic performance. You must already be maintaining a bardic performance before you can cast allegro. You gain the benefits of the spell haste for as long as you maintain that bardic performance. If you cease maintaining the bardic performance or it is interrupted, this spell's duration ends. As an immediate action while you are maintaining a bardic performance, you can dismiss allegro to reroll a Reflex save or Dexterity-based skill check-you must choose to reroll before the result of the original roll is known. You must take the result of the reroll, even if it's worse than the original roll. Allegro dispels and is dispelled by slow."
+known: false
+cssclasses:
+  - hide-title
+  - hide-properties
+---
+
+> [!spellbook-spell-block] Allegro
+> **School:** transmutation; **Level** bard 2
+> **Casting Time** 1 standard action  
+> **Components** V  
+> **Range** personal  
+> **Targets** you  
+> **Duration** 1 round/level (D) or until discharged; **Spell Resistance** not found
+> 
+> This spell allows you to act more swiftly while maintaining a bardic performance. You must already be maintaining a bardic performance before you can cast allegro. You gain the benefits of the spell haste for as long as you maintain that bardic performance. If you cease maintaining the bardic performance or it is interrupted, this spell's duration ends. As an immediate action while you are maintaining a bardic performance, you can dismiss allegro to reroll a Reflex save or Dexterity-based skill check-you must choose to reroll before the result of the original roll is known. You must take the result of the reroll, even if it's worse than the original roll. Allegro dispels and is dispelled by slow.

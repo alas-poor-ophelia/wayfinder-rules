@@ -1,0 +1,30 @@
+---
+id: "MM_2"
+name: "Blood Boil"
+spellLevel: "magus 5, sorcerer/wizard 5, witch 5"
+school: "necromancy"
+source: "Magical Marketplace"
+range: "touch"
+castingTime: "1 standard action"
+components: "V, S, M (a drop of mercury)"
+targets: "one living creature"
+duration: "3 rounds"
+saveType: "Fortitude negates (see text)"
+sr: "yes"
+description: "The temperature of the target creature's blood (or other similar body fluid) begins to rise over the next 3 rounds during the caster's turn. Each round starting with the first, the target creature attempts a new saving throw at the start of the caster's turn to resist that round's effect. A successful save does not end the spell effect, but does prevent that round's effect. On the round that this spell is cast, the target becomes fatigued. On the next round, as the blood temperature begins to rise, the target's capillaries burst, dealing 1d6 points of Constitution damage to the target. On the third and final round, the target's blood begins to boil; the spell deals 1d6 points of damage per caster level (to a maximum of 15d6), and-if the target is still alive-the target becomes exhausted rather than fatigued."
+known: false
+cssclasses:
+  - hide-title
+  - hide-properties
+---
+
+> [!spellbook-spell-block] Blood Boil
+> **School:** necromancy; **Level** magus 5, sorcerer/wizard 5, witch 5
+> **Casting Time** 1 standard action  
+> **Components** V, S, M (a drop of mercury)  
+> **Range** touch  
+> **Targets** one living creature  
+> **Duration** 3 rounds  
+> **Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
+> 
+> The temperature of the target creature's blood (or other similar body fluid) begins to rise over the next 3 rounds during the caster's turn. Each round starting with the first, the target creature attempts a new saving throw at the start of the caster's turn to resist that round's effect. A successful save does not end the spell effect, but does prevent that round's effect. On the round that this spell is cast, the target becomes fatigued. On the next round, as the blood temperature begins to rise, the target's capillaries burst, dealing 1d6 points of Constitution damage to the target. On the third and final round, the target's blood begins to boil; the spell deals 1d6 points of damage per caster level (to a maximum of 15d6), and-if the target is still alive-the target becomes exhausted rather than fatigued.

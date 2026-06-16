@@ -1,0 +1,30 @@
+---
+id: "UI_70"
+name: "Pack Empathy"
+spellLevel: "bloodrager 3, druid 3, inquisitor 3, medium 2, ranger 2, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3"
+school: "divination"
+source: "Ultimate Intrigue"
+range: "close (25 ft. + 5 ft./2 levels)"
+castingTime: "1 standard action"
+components: "V, S"
+targets: "you plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart"
+duration: "1 hour/level (D)"
+saveType: "none"
+sr: "no"
+description: "You create an instinctual connection between the targets. Each can sense the others' overall emotional states, which allows them to communicate basic emotional concepts (such as alerting each other of danger due to increased stress). Once the spell has been cast on the subjects, the distance between them and the caster doesn't affect the spell as long as they are on the same plane of existence. If a subject leaves the plane, or if it dies, the spell ceases to function for it."
+known: false
+cssclasses:
+  - hide-title
+  - hide-properties
+---
+
+> [!spellbook-spell-block] Pack Empathy
+> **School:** divination; **Level** bloodrager 3, druid 3, inquisitor 3, medium 2, ranger 2, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3
+> **Casting Time** 1 standard action  
+> **Components** V, S  
+> **Range** close (25 ft. + 5 ft./2 levels)  
+> **Targets** you plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart  
+> **Duration** 1 hour/level (D)  
+> **Saving Throw** none; **Spell Resistance** no
+> 
+> You create an instinctual connection between the targets. Each can sense the others' overall emotional states, which allows them to communicate basic emotional concepts (such as alerting each other of danger due to increased stress). Once the spell has been cast on the subjects, the distance between them and the caster doesn't affect the spell as long as they are on the same plane of existence. If a subject leaves the plane, or if it dies, the spell ceases to function for it.

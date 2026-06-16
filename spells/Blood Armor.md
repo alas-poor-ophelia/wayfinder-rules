@@ -1,0 +1,29 @@
+---
+id: "ACG_23"
+name: "Blood Armor"
+spellLevel: "alchemist 2, bloodrager 2, sorcerer/wizard 2, summoner 2, witch 2, psychic 2"
+school: "transmutation"
+source: "Advanced Class Guide"
+range: "personal"
+castingTime: "1 standard action"
+components: "V, S"
+targets: "you"
+duration: "1 minute/level"
+saveType: ""
+sr: "not found"
+description: "Your blood becomes as hard as iron upon contact with air.  Each time you take at least 5 points of piercing or slashing damage, your armor gains a +1 enhancement bonus to your AC. An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell. This enhancement bonus stacks with itself to a maximum enhancement bonus of +5. This spell has no effect while underwater or in environments that lack air."
+known: false
+cssclasses:
+  - hide-title
+  - hide-properties
+---
+
+> [!spellbook-spell-block] Blood Armor
+> **School:** transmutation; **Level** alchemist 2, bloodrager 2, sorcerer/wizard 2, summoner 2, witch 2, psychic 2
+> **Casting Time** 1 standard action  
+> **Components** V, S  
+> **Range** personal  
+> **Targets** you  
+> **Duration** 1 minute/level; **Spell Resistance** not found
+> 
+> Your blood becomes as hard as iron upon contact with air.  Each time you take at least 5 points of piercing or slashing damage, your armor gains a +1 enhancement bonus to your AC. An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell. This enhancement bonus stacks with itself to a maximum enhancement bonus of +5. This spell has no effect while underwater or in environments that lack air.

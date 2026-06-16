@@ -1,0 +1,28 @@
+name: Package rules
+
+# Tag a version (e.g. `git tag 1.0 && git push origin 1.0`) to attach a
+# wayfinder-rules.zip to a GitHub release. Users can also just use
+# Code -> Download ZIP without a release.
+on:
+  push:
+    tags:
+      - "*"
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zip notes
+        run: zip -r wayfinder-rules.zip . -x ".git/*" ".github/*"
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" \
+            --title "${GITHUB_REF_NAME}" \
+            --notes "Wayfinder rules notes ${GITHUB_REF_NAME}." \
+            wayfinder-rules.zip
