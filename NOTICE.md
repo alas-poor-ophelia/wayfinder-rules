@@ -1,18 +1,23 @@
 # Open Game Content Notice
 
-The spell reference notes in `spells/` are **Open Game Content** as defined by
-the Open Game License 1.0a (see `OGL-1.0a.txt`), used in accordance with
-Section 15 of that license.
+The spell reference notes in `spells/` and the Path of War maneuver notes in
+`maneuvers/` are **Open Game Content** as defined by the Open Game License 1.0a
+(see `OGL-1.0a.txt`), used in accordance with Section 15 of that license.
 
-The notes were compiled from **Archives of Nethys** (<https://www.aonprd.com>),
-which publishes this Open Game Content under the same license. Only Open Game
-Content (spell names, statistics, and mechanical descriptions) is reproduced;
-Product Identity is excluded. Each note records its originating sourcebook in its
-`source` front-matter field.
+The spell notes were compiled from **Archives of Nethys**
+(<https://www.aonprd.com>), which publishes this Open Game Content under the same
+license. Only Open Game Content (spell names, statistics, and mechanical
+descriptions) is reproduced; Product Identity is excluded. Each note records its
+originating sourcebook in its `source` front-matter field.
 
-This project is not published, endorsed, or specifically approved by Paizo. The
-"Pathfinder" name is a trademark of Paizo Inc. and is used here only
-descriptively.
+The maneuver notes (`maneuvers/`) reproduce the Open Game Content of **Path of
+War** and **Path of War: Expanded** by Dreamscarred Press, compiled via
+<https://www.d20pfsrd.com>. Only the mechanical Open Game Content (maneuver
+names, statistics, and descriptions) is reproduced; Product Identity is excluded.
+
+This project is not published, endorsed, or specifically approved by Paizo or
+Dreamscarred Press. The "Pathfinder" name is a trademark of Paizo Inc. and is
+used here only descriptively.
 
 ## Section 15 — Copyright Notices
 
@@ -35,6 +40,8 @@ descriptively.
 - Additional spells are drawn from other Paizo Open Game Content sourcebooks
   and Adventure Paths; each note cites its specific source in its `source`
   field, and all are © Paizo Inc. and used as Open Game Content under the OGL.
+- Path of War © 2014, Dreamscarred Press.
+- Path of War: Expanded © 2016, Dreamscarred Press.
 
 Product Identity (character names, deities, setting lore, artwork) is not
 reproduced in this repository.
