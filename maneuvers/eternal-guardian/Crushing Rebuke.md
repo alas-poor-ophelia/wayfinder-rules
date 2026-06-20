@@ -9,7 +9,7 @@ target: One creature
 duration: 1 turn
 prerequisites: Three Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Crushing Rebuke
 

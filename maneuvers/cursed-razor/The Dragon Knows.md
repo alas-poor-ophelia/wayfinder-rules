@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: Two cursed razor maneuvers
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # The Dragon Knows
 

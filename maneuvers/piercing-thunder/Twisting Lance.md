@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: One Piercing Thunder maneuver
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Twisting Lance
 

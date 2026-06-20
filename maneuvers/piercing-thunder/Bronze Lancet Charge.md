@@ -8,7 +8,7 @@ range: Charge attack
 target: One creature
 duration: Instant
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Bronze Lancet Charge
 

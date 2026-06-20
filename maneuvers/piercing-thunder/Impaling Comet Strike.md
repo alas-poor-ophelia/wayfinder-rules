@@ -9,7 +9,7 @@ target: Line of weapon’s reach(see text)
 duration: Instant
 prerequisites: Two Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Impaling Comet Strike
 

@@ -8,7 +8,7 @@ range: Melee attack
 target: One creature
 duration: Instant
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Salt Breeze Strike
 

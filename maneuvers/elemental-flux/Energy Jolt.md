@@ -1,0 +1,24 @@
+---
+category: Maneuver
+discipline: Elemental Flux
+level: 3
+type: Strike
+action: 1 standard action
+range: "30&#8242;"
+target: One creature
+duration: Instant
+skill: Spellcraft
+source: "Path of War: Expanded"
+---
+# Energy Jolt
+
+You fill the opponent with harmful elemental energy, dealing damage and causing them to suffer debilitating effects. You fire a ray against an opponent within 30 feet. This ray requires a ranged touch attack to hit and deals 3d6 points of damage of your active element’s associated energy type. This strike also has one of the following effects, based on your active element:
+
+- **Air**: If your ray hits, the target must succeed at a Fortitude save or be pushed 15 feet away from you in a direction of your choice.
+- **Earth**: If your ray hits, the target takes an additional 1d6 points of acid damage at the start of your next turn, and must succeed at a Fortitude save or be sickened for a number of rounds equal to your initiation modifier.
+- **Fire**: If your ray hits, the target must succeed at a Reflex save or take an additional 2d6 points of fire damage at the start of your next turn.
+- **Water**: If your ray hits, the target must succeed at a Fortitude save or become entangled for a number of rounds equal to your initiation modifier.
+
+Saving throws against this strike are DC 12 + your initiation modifier.
+
+**Animus augmentation**: You may spend up to three points of animus to increase the initial damage of this strike by 1d6 per point of animus spent and increase the save DC of this strike by +1 per point of animus spent.

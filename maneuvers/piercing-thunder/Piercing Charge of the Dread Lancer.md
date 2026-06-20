@@ -9,7 +9,7 @@ target: One or more creatures
 duration: Instant
 prerequisites: Four Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Piercing Charge of the Dread Lancer
 

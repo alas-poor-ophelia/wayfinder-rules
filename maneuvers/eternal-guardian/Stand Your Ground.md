@@ -9,7 +9,7 @@ target: Self and one ally
 duration: 1 round
 prerequisites: Two Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Stand Your Ground
 

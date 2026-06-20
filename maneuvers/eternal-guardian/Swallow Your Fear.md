@@ -9,7 +9,7 @@ target: One ally
 duration: Instant
 prerequisites: One Eternal Guardian maneuver
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Swallow Your Fear
 

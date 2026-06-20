@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: One cursed razor maneuver
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Dogpile Strike
 

@@ -8,7 +8,7 @@ range: Melee or ranged attack
 target: One ecreature
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Terrifying Blow
 

@@ -8,7 +8,7 @@ range: "Melee or ranged attack and 30&#8242;"
 target: One enemy and one ally
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Strike of the Infinite Protector
 

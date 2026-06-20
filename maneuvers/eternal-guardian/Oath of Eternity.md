@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: Four Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Oath of Eternity
 

@@ -8,7 +8,7 @@ range: Melee attack
 target: Up to two creatures
 duration: Instant
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Tidal Blade
 

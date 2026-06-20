@@ -9,7 +9,7 @@ target: Adjacent enemies
 duration: Instant
 prerequisites: Two Mithral Current maneuvers
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Raging Whirlpool Strike
 

@@ -8,7 +8,7 @@ range: Melee attack
 target: One creature
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Guard’s Oath
 

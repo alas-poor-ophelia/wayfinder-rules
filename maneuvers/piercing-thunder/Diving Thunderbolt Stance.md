@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: Two Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Diving Thunderbolt Stance
 

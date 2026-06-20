@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: One Mithral Current maneuver
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Ride the Current
 

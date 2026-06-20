@@ -8,7 +8,7 @@ range: Melee or ranged attack
 target: One creature
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Strike of the Royal Guardian
 

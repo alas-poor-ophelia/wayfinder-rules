@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: One cursed razor maneuver
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Aura of Shared Misery
 

@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: One Eternal Guardian maneuver
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Strike of the Steadfast Legion
 

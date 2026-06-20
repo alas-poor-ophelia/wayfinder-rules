@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: Three Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Deadly Thunder Lancer’s Stance
 

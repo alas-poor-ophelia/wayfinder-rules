@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: Three Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Adamantine Lancer’s Edge
 

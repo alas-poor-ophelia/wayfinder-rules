@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: Three Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Stance of the Infinite Warrior
 

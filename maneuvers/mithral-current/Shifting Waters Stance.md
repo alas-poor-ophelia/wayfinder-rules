@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: Two Mithral Current maneuvers
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Shifting Waters Stance
 

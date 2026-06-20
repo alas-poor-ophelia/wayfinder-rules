@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: Stance
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Touch of the Witch
 

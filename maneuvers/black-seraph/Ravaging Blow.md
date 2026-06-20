@@ -9,7 +9,7 @@ target: One creature
 duration: One round
 save: Will partial
 skill: Intimidate
-source: Path of War
+source: Midgard Campaign Setting
 ---
 # Ravaging Blow
 

@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Warden’s Bearing
 

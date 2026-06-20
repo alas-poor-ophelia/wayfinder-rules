@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: Two Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Curse of Impending Doom
 

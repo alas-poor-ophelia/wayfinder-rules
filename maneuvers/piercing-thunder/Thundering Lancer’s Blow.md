@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: Three Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Thundering Lancer’s Blow
 

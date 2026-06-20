@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: Stance
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Phalanx Lancer
 

@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: Two cursed razor maneuvers
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Witch’s Revenge
 

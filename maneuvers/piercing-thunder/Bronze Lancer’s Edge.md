@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: 1 round
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Bronze Lancer’s Edge
 

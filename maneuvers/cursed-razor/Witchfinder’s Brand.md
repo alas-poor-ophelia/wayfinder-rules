@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: One cursed razor maneuver
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Witchfinder’s Brand
 

@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: Two Mithral Current maneuvers
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Endless Current
 

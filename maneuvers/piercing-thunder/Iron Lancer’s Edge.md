@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: One Piercing Thunder maneuver
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Iron Lancer’s Edge
 

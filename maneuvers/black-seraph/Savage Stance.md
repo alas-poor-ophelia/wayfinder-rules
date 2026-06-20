@@ -8,7 +8,7 @@ range: Personal
 target: You
 duration: Stance
 skill: Intimidate
-source: Path of War
+source: Midgard Campaign Setting
 ---
 # Savage Stance
 

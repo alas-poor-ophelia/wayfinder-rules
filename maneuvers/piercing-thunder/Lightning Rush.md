@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: Two Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Lightning Rush
 

@@ -11,9 +11,12 @@ descriptions) is reproduced; Product Identity is excluded. Each note records its
 originating sourcebook in its `source` front-matter field.
 
 The maneuver notes (`maneuvers/`) reproduce the Open Game Content of **Path of
-War** and **Path of War: Expanded** by Dreamscarred Press, compiled via
-<https://www.d20pfsrd.com>. Only the mechanical Open Game Content (maneuver
-names, statistics, and descriptions) is reproduced; Product Identity is excluded.
+War** and **Path of War: Expanded** by Dreamscarred Press, with a few maneuvers
+drawn from **Lords of the Night** (Dreamscarred Press) and the **Midgard
+Campaign Setting** (Open Design LLC); each note cites its specific book in its
+`source` field. Compiled via <https://www.d20pfsrd.com>. Only the mechanical
+Open Game Content (maneuver names, statistics, and descriptions) is reproduced;
+Product Identity is excluded.
 
 This project is not published, endorsed, or specifically approved by Paizo or
 Dreamscarred Press. The "Pathfinder" name is a trademark of Paizo Inc. and is
@@ -42,6 +45,8 @@ used here only descriptively.
   field, and all are © Paizo Inc. and used as Open Game Content under the OGL.
 - Path of War © 2014, Dreamscarred Press.
 - Path of War: Expanded © 2016, Dreamscarred Press.
+- Lords of the Night © 2015, Dreamscarred Press.
+- Midgard Campaign Setting © 2012 Open Design LLC.
 
 Product Identity (character names, deities, setting lore, artwork) is not
 reproduced in this repository.

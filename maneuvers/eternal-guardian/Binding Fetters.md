@@ -9,7 +9,7 @@ target: One creature
 duration: 1 round
 prerequisites: One Eternal Guardian maneuver
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Binding Fetters
 

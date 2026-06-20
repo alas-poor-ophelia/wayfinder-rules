@@ -9,7 +9,7 @@ target: One creature
 duration: Instant
 prerequisites: Two Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Breaking the Charge
 

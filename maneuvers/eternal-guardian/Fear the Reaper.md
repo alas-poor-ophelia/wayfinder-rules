@@ -8,7 +8,7 @@ range: "60&#8242;"
 target: One ally
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Fear the Reaper
 

@@ -8,7 +8,7 @@ range: "Melee or close (25&#8242; + 5/2 levels)"
 target: One creature
 duration: Instant
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Iron Wave
 

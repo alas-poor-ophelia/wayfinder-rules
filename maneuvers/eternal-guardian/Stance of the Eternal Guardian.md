@@ -9,7 +9,7 @@ target: Self and one ally
 duration: Stance
 prerequisites: One Eternal Guardian maneuver
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Stance of the Eternal Guardian
 

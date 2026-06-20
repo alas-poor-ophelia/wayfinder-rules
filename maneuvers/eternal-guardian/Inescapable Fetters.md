@@ -9,7 +9,7 @@ target: Self
 duration: 1 round
 prerequisites: Two Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Inescapable Fetters
 

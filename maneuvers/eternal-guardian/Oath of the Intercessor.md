@@ -8,7 +8,7 @@ range: Melee reach
 target: One ally
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Oath of the Intercessor
 

@@ -9,7 +9,7 @@ target: One creature
 duration: 1 round
 save: Fort negates
 skill: Intimidate
-source: Path of War
+source: Midgard Campaign Setting
 ---
 # Gutstrike
 

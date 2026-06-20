@@ -8,7 +8,7 @@ range: Melee attack
 target: One or two creatures
 duration: Instant
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Piercing Strike
 

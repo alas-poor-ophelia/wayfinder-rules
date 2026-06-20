@@ -8,7 +8,7 @@ range: "Melee attack and 60&#8242;"
 target: One creature
 duration: Instant
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Relentless Warden’s Strike
 

@@ -9,7 +9,7 @@ target: Self
 duration: Instant
 prerequisites: Two Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Twisting Parry
 

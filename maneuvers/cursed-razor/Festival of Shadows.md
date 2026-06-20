@@ -9,7 +9,7 @@ target: Opponents within range
 duration: Instant
 prerequisites: Four cursed razor maneuvers
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Festival of Shadows
 

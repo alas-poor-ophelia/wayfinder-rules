@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: 1 round
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Following Wake
 

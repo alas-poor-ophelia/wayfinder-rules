@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: Stance
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Valiant Keeper’s Stance
 

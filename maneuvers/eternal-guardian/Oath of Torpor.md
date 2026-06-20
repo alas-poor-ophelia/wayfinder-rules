@@ -9,7 +9,7 @@ target: Self
 duration: Instant
 prerequisites: One Eternal Guardian maneuver
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Oath of Torpor
 

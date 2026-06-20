@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: Instant
 skill: Perform (Dance)
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Flowing Creek
 

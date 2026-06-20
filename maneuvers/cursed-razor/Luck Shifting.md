@@ -8,7 +8,7 @@ range: Personal
 target: Self
 duration: 1 round
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Luck Shifting
 

@@ -9,7 +9,7 @@ target: "30&#8242; line"
 duration: Instant
 prerequisites: Two Piercing Thunder maneuvers
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Throwing Comet
 

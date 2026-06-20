@@ -8,7 +8,7 @@ range: Personal
 target: One creature
 duration: Instant
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Bad Karma
 

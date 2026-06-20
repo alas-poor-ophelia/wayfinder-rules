@@ -8,7 +8,7 @@ range: "Medium (100&#8242; + 10/level)"
 target: One creature
 duration: Instant
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Spilled Salt
 

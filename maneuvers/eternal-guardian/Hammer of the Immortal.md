@@ -9,7 +9,7 @@ target: Threatened opponents
 duration: Instant
 prerequisites: Three Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Hammer of the Immortal
 

@@ -9,7 +9,7 @@ target: One creature
 duration: 1 round
 prerequisites: Two cursed razor maneuvers
 skill: Spellcraft
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Shadow Pin
 

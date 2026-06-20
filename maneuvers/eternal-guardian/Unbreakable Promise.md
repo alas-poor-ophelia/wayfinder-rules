@@ -9,7 +9,7 @@ target: Opponents
 duration: 3 rounds
 prerequisites: Two Eternal Guardian maneuvers
 skill: Intimidate
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Unbreakable Promise
 

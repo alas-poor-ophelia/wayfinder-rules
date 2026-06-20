@@ -9,7 +9,7 @@ target: Self
 duration: Stance
 prerequisites: One Piercing Thunder maneuver
 skill: Acrobatics
-source: Path of War
+source: "Path of War: Expanded"
 ---
 # Twin Thunder Stance
 
